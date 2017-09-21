@@ -1,0 +1,6 @@
+String firstName = Tessie; 
+String lastName = Rockabilly; 
+String fullName = firstName+" "+lastName; System.out.println(fullName); 
+System.out.println("Hello, my name is "+fullname+"."; 
+int lettersInName = firstName.length()+lastName.length(); 
+System.out.println("There are "+lettersInName+" letters in my name.");
