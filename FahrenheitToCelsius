@@ -1,0 +1,4 @@
+double fahrenheit = 57;
+double celsius;
+ celsius = (fahrenheit - 32) * 5 / 9; 
+System.out.println(celsius);
